@@ -1,6 +1,10 @@
 # Web Image UI
 
 这是一个基于Web的图像生成用户界面，支持多种AI图像生成模型，包括豆包和通义千问等。
+home
+<img width="1432" height="875" alt="iShot_2025-09-26_17 26 46" src="https://github.com/user-attachments/assets/3c9cb31f-d8a7-44d7-bfd7-926c848f8dba" />
+
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-18.x-blue.svg)
@@ -21,6 +25,11 @@
 - **响应式布局** - 完美适配桌面和移动设备
 - **流畅动画** - 精心设计的交互动效
 - **直观操作** - 简洁易用的用户界面
+
+<img width="598" height="509" alt="iShot_2025-09-26_17 30 08" src="https://github.com/user-attachments/assets/28fe6729-104a-4bf7-91a3-6fe875e64269" />
+<img width="434" height="356" alt="iShot_2025-09-26_17 30 01" src="https://github.com/user-attachments/assets/fec62edd-af85-4f96-987c-b953325e5ac7" />
+<img width="624" height="789" alt="iShot_2025-09-26_17 29 55" src="https://github.com/user-attachments/assets/a020a7a7-7910-42f2-a560-37032a5bf292" />
+
 
 ### 高级功能
 - **参数调节** - 支持分辨率、步数、引导系数等参数调节
