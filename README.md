@@ -1,8 +1,10 @@
 # Web Image UI
 
 这是一个基于Web的图像生成用户界面，支持多种AI图像生成模型，包括豆包和通义千问等。
-home
-<img width="1432" height="875" alt="iShot_2025-09-26_17 26 46" src="https://github.com/user-attachments/assets/3c9cb31f-d8a7-44d7-bfd7-926c848f8dba" />
+
+homeimg
+<img width="2864" height="1750" alt="iShot_2025-09-26_17 26 46" src="https://github.com/user-attachments/assets/6bd62e51-286c-4876-bb43-34de802f9374" />
+
 
 
 
